@@ -1,2 +1,2 @@
 # hello-world
-training
+Ćwiczę githuba i zmieniam wersję
